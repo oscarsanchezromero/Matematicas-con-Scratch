@@ -1,7 +1,13 @@
 # Matematicas-con-Scratch
 En este repositorio se pueden encontrar proyectos desarrollados con Scratch propuestos con la idea
 de practicar/aplicar conceptos matemáticos estudiados en primaria y/o secundaria. 
-En la carpeta proyectos se puede encontrar el fichero ListaProyectos.pdf donde se listan las actividades 
-propuestas en el repositorio mostrando su posible uso educativo e indicaciones básicas para su uso. 
 
-Más proyectos disponibles en el usuario MathsOnLive de Scratch: https://scratch.mit.edu/users/MathsOnLive/projects/
+El fichero "introScratch.pdf" es una presentación del lenguaje Scratch y a su posible uso en relación con
+las asignaturas de matemáticas  estudiadas a niveles básicos. Contiene gran cantidad de vínculos que 
+pueden ser de utilidad para familiarizarse con este lenguaje.
+
+En la carpeta "proyectos" se clasifican por tipologías las actividades propuestas en este repositorio.
+El fichero ListaProyectos.pdf donde se listan todas las actividades propuestas mostrando su posible 
+uso educativo e indicaciones básicas para su uso. 
+
+Estos proyectos están tambien disponibles en el usuario [MathsOnLive de Scratch](https://scratch.mit.edu/users/MathsOnLive/projects/).
