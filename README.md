@@ -7,7 +7,7 @@ las asignaturas de matemáticas  estudiadas a niveles básicos. Contiene gran ca
 pueden ser de utilidad para familiarizarse con este lenguaje.
 
 En la carpeta "proyectos" se clasifican por tipologías las actividades propuestas en este repositorio.
-El fichero ListaProyectos.pdf donde se listan todas las actividades propuestas mostrando su posible 
+El fichero ListaProyectos.pdf donde se listan muchas de las actividades propuestas mostrando su posible 
 uso educativo e indicaciones básicas para su uso. 
 
-Estos proyectos están tambien disponibles en el usuario [MathsOnLive de Scratch](https://scratch.mit.edu/users/MathsOnLive/projects/).
+Una selección de estos proyectos están tambien disponibles en el usuario [MathsOnLive de Scratch](https://scratch.mit.edu/users/MathsOnLive/projects/).
